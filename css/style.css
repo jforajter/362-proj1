@@ -1,117 +1,93 @@
-
-body{
-	font-family:Lucida Console;
-	background-color:red;
-	
-	
+  body{
+    font-family:Lucida Console;
+    background-color:red;
 }
-label{
-	font-weight: bold;
-	
-	
+  label{
+    font-weight: bold;
 }
-#deev{
+  #deev{
     text-align: center;
-	padding:50px;
-	border: 15px double;
-	border-radius:10px;
-	margin:25px;
-	font-size:25px;
+    padding:50px;
+    border: 15px double;
+    border-radius:10px;
+    margin:25px;
+    font-size:25px;
 }
-input{
-	text-align:center;
-	padding:25px;
-	width:90%;
-	border:double 5px;
-	border-radius:5px;
+  input{
+    text-align:center;
+    padding:25px;
+    width:90%;
+    border:double 5px;
+    border-radius:5px;
 }
-
-header{
-	text-align:center;
-	font-size:45px;
-	padding:25px;
-	font-weight: bold;
+  header{
+    text-align:center;
+    font-size:45px;
+    padding:25px;
+    font-weight: bold;
 }
-#tphone{
-	margin:15px;
-
-
+  #tphone{
+    margin:15px;
 }
-#bday{
-	margin:15px;
-
-	
+  #bday{
+    margin:15px;
 }
-#email{
-	margin:15px;
-	
-	
+  #email{
+    margin:15px;
 }
-#butt{
-	background-color:white;
-	border:5px double;
-	margin:25px;
-	font-weight: bold;
-	font-size:25px;
-	padding:25px;
+  #butt{
+    background-color:white;
+    border:5px double;
+    margin:25px;
+    font-weight: bold;
+    font-size:25px;
+    padding:25px;
 }
-	
-	
-
 @media only screen and (min-width: 1100px){
-	
-	body{
-		font-family:Lucida Console;
-		background-color:aquamarine;
-	
-		
-	}
-	label{
-		font-weight: bold;
-		
-	}
-	#deev{
-	    text-align: center;
-		padding:50px;
-		border: 15px double;
-		border-radius:10px;
-		margin:25px;
-		font-size:15px;
-		
-	}
-	input{
-		text-align:center;
-		padding:5px;
-		width:500px;
-		border:double 5px;
-		border-radius:5px;
-	}
-	
-	header{
-		text-align:center;
-		font-size:45px;
-		padding:25px;
-		font-weight: bold;
-	}
-	#tphone{
-		margin:15px;
-		
-	}
-	#bday{
-		margin:15px;
-		
-	}
-	#email{
-		margin:15px;
-		
-	}
-	#butt{
-		background-color:aquamarine;
-		border:5px double;
-		margin:25px;
-		font-weight: bold;
-	}
-	#butt:hover{
-		background-color:white;
-	}
+  body{
+    font-family:Lucida Console;
+    background-color:aquamarine;
+  }
+  label{
+    font-weight: bold;
+  }
+  #deev{
+    text-align: center;
+    padding:50px;
+    border: 15px double;
+    border-radius:10px;
+    margin:25px;
+    font-size:15px;
+  }
+  input{
+    text-align:center;
+    padding:5px;
+    width:500px;
+    border:double 5px;
+    border-radius:5px;
+  }
+  header{
+    text-align:center;
+    font-size:45px;
+    padding:25px;
+    font-weight: bold;
+  }
+  #tphone{
+    margin:15px;
+  }
+  #bday{
+    margin:15px;
+  }
+  #email{
+    margin:15px;
+  }
+  #butt{
+    background-color:aquamarine;
+    border:5px double;
+    margin:25px;
+    font-weight: bold;
+  }
+  #butt:hover{
+    background-color:white;
+  }
 }

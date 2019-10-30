@@ -1,5 +1,5 @@
   body{
-    font-family:Lucida Console;
+    font-family:'ZCOOL XiaoWei',Lucida Console, serif;;
     background-color:red;
 }
   label{
@@ -45,7 +45,6 @@
 }
 @media screen and (min-width: 600px){
   body{
-    font-family:Lucida Console;
     background-color:aquamarine;
   }
   label{

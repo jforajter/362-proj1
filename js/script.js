@@ -1,11 +1,6 @@
 function emailValidate() {
-	var emails = document.getElementById("email").value;
+  var emails = document.getElementById("email").value;
 	
-	if (emails.value== "")
-	{
-		window.alert("please enter your email");
-		emails.focus();
-		return false;
-	}
+  alert ("congratulations, your FREE is in the MAIL @" +emails+);
 
 }

@@ -1,5 +1,5 @@
 function emailValidate() {
-	var emails = document.getElementById("email");
+	var emails = document.getElementById("email").value;
 	
 	if (emails.value== "")
 	{
